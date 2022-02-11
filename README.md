@@ -18,7 +18,7 @@ Recent research proposed several efficient networks and network structures such 
 # Quick Instructions of Using the Code :
 (For more details check out instructions to run code pdf)
 
-##Set-Up Working Environment - 
+## Set-Up Working Environment - 
 
 **Setting up the virtual env** :
 
