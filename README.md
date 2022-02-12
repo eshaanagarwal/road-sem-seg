@@ -20,7 +20,7 @@ Recent research proposed several efficient networks and network structures such 
 
 ## Set-Up Working Environment - 
 
-**Setting up the virtual env** :
+### Setting up the virtual env :
 
  Run the following codes in your terminal to set up the virtual env.
 
@@ -35,7 +35,8 @@ Install dependencies from requirements.txt file
 ```bash
 $ pip install -r requirements.txt
 ```
-**Model Training** :
+---------------------------------------------------------
+### Model Training :
 
 Run the following command if default pickle used 
 ```bash
@@ -47,9 +48,9 @@ Or
 ```bash
 $ python training.py -c --config_file_path	
 ```
+--------------------------------------------------------
 
-
-**Evaluation on Training Dataset** :
+### Evaluation on Training Dataset :
 ```bash
 $ python evaluation.py	
 ```
@@ -57,8 +58,8 @@ Or
 ```bash
 $ python evaluation.py -c --config_file_path
 ```
-
-**Testing our Model on random image** : 
+------------------------------------------------------------
+### Testing our Model on random image : 
 ```bash
 $ python inference.py
 ```
