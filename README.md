@@ -1,3 +1,7 @@
+# Brief :
+This project was completed while i was working as winter intern at the Advanced Image Solution (AIS) Lab, headed by Prof. Oh-Seol Kwon from Changwon National Univeristy South Korea. Prof Kwon is also a visiting fellow of the Electrical and Computer Engineering Department of Princeton Univeristy USA.
+
+
 # Semantic segmentation :
 
 Semantic segmentation is the process of classifying each pixel belonging to a particular label. It doesn't different across different instances of the same object. For example if there are 2 cats in an image, semantic segmentation gives same label to all the pixels of both cats.
