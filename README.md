@@ -31,7 +31,7 @@ $ conda activate myenv
 $ conda deactivate   # deactivate env.
 ```
 
-Install dependencies from requirements.txt file  CODE - 
+Install dependencies from requirements.txt file
 ```bash
 $ pip install -r requirements.txt
 ```
