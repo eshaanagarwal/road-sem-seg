@@ -1,5 +1,5 @@
 # Brief :
-This project was completed while i was working as winter intern at the Advanced Image Solution (AIS) Lab, headed by Prof. Oh-Seol Kwon from Changwon National Univeristy South Korea. Prof Kwon is also a visiting research fellow of the Electrical and Computer Engineering Department of Princeton University USA.
+<!-- This project was completed while i was working as winter intern at the Advanced Image Solution (AIS) Lab, headed by Prof. Oh-Seol Kwon from Changwon National Univeristy South Korea. Prof Kwon is also a visiting research fellow of the Electrical and Computer Engineering Department of Princeton University USA. -->
 
 
 # Semantic segmentation :
